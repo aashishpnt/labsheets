@@ -15,7 +15,7 @@ void main()
         }
     }
     }
-     else if (a>b){
+     else if (a<b){
     for (i=b ;i>=1;i--)
     {
         if (a%i==0 && b%i==0)
